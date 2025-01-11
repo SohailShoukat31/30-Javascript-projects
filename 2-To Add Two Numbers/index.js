@@ -6,7 +6,7 @@ let c = a + b;
 // +
 console.log(`The sum of ${a} and ${b} is :${c}.`);
 
-// _________________________________________________________________________
+// _________________________________________________________________________ //
 
 let userValue = parseInt(prompt("Please enter first number :"));
 let userValue2 = parseInt(prompt("Please enter second number :"));
