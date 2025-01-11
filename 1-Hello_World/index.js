@@ -2,7 +2,7 @@
 //console.log() is used in debugging in the code;
 console.log("Hello World 🌎");
 
-// alert() 
+// alert()
 // alert() method displays an alert box over current window with popup message;
 alert("Hello , Every one  Welcome to Javascript.👋 ");
 
